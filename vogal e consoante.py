@@ -6,6 +6,7 @@ if letra in ("a","e","i","o","u"):
 else:
     print("consoante")
     print("teste git")
+    print("teste Otni")
 
 
 
